@@ -121,7 +121,7 @@ body {
 }
 
 .genre-item {
-	font-size: 13px;
+	font-size: 1.3em;
 	color: #fff;
 	text-decoration: none;
 	margin-right: 15px;
@@ -160,12 +160,12 @@ body {
 }
 
 .info p:first-child {
-	font-size: 14px;
+	font-size: 1.4em;
 }
 
 .info p:last-child {
 	color: #bc9a1d;
-	font-size: 14px;
+	font-size: 1.4em;
 }
 
 .catalog {

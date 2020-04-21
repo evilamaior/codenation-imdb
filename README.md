@@ -4,7 +4,7 @@
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
 ## Tópicos:
-Neste desafio, você vai praticar os seus conhecimentos em:
+Praticar conhecimentos em:
 * **HTML5**;
 * **CSS3**;
 * **Vincular fontes externas** (Google Fonts);
@@ -15,7 +15,7 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 > * **Não utilizar** frameworks CSS como Bootstrap, Foundation e afins.
 
 ## Requisitos:
-* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador;
+* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior;
 * **[Live Server](https://www.npmjs.com/package/live-server)**.
 
 ## Layout:
